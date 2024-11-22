@@ -1,6 +1,6 @@
-# PSE Auth
+# PSE-ID
 
-This repository is being used for work in the W3C PSE Auth, governed by the [W3C Community License
+This repository is being used for work in the W3C PSE-ID, governed by the [W3C Community License
 Agreement (CLA)](http://www.w3.org/community/about/agreements/cla/). To make substantive contributions,
 you must join the CG.
 

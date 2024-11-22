@@ -1,6 +1,6 @@
-# PSE Auth explainer
+# PSE-ID explainer
 
-This is the repository for PSE Auth. You're welcome to
+This is the repository for PSE-ID. You're welcome to
 [contribute](CONTRIBUTING.md)!
 
 To fill this out, please see: https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md
